@@ -69,7 +69,7 @@
 
 ...
 <details>
-  <summary>:zap:  I am currently learning: </summary>
+  <summary>:zap:  Currently, I am learning: </summary>
   <br></br>
   
 Terminal:  
