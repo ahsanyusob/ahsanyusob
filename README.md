@@ -1,4 +1,4 @@
-## Hi, I am Ahsan Yusob!
+## <img height="60" alt="ASSMBL" src="./img/Lambo_full.png" /> Hi I am Ahsan Yusob!
 
 :zap:  I am interested in:
   <!-- copy this [<img height="20" alt="sys_id" src=https://img.shields.io/badge/-system--identification-blue />](https://github.com/topics/system-identification) -->
@@ -57,7 +57,7 @@
 > <img height="25" alt="APA_MVN" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 
 :zap: My personal ratings to my skills and knowledge:
-  
+
 <table>
   <th></th><th>IDE & PLATFORM</th><th>LANGUAGES</th><th>TERMINAL</th><th>LIBRARIES</th>
   <tr>
@@ -109,7 +109,6 @@
     <td></td>
   </tr>
 </table>
-
 
 <!--
  <img height="25" alt="badge_name" src="" />
