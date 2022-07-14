@@ -1,4 +1,4 @@
-## <img height="40" alt="ASSMBL" src="./img/Lambo_full.png" /> Hi I am Ahsan Yusob!
+## <img height="40" alt="ASSMBL" src="./img/Lambo_full.png" /> Hi, I am Ahsan Yusob!
 
 :zap:  I am interested in:
   <!-- copy this [<img height="20" alt="sys_id" src=https://img.shields.io/badge/-system--identification-blue />](https://github.com/topics/system-identification) -->
@@ -40,7 +40,7 @@
 >  [<img height="20" alt="autodr" src=https://img.shields.io/badge/-autonomous--driving-purple />](https://github.com/topics/autonomous-driving)
 
 
-:zap:  Currently, I am learning:
+:zap:  and currently, I am learning:
 
 > <img height="25" alt="git" src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white" />
 > <img height="25" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -56,7 +56,7 @@
 > <img height="25" alt="NUMPY" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 > <img height="25" alt="APA_MVN" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 
-:zap: My personal ratings to my skills and knowledge:
+:zap: Here's my personal ratings to my skills and knowledge:
 
 <table>
   <th></th><th>IDE & PLATFORM</th><th>LANGUAGES</th><th>TERMINAL</th><th>LIBRARIES</th>
