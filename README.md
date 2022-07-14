@@ -25,7 +25,7 @@
 
 :zap: My personal ratings to my skills and knowledge:
   
-  <table>
+  <table class="center">
     <th></th><th>IDE & PLATFORM</th><th>LANGUAGES</th><th>TERMINAL</th><th>LIBRARIES</th>
     <tr>
       <td>⭐⭐⭐⭐⭐ </td>
@@ -76,6 +76,10 @@
       <td></td>
     </tr>
   </table>
+  .center {
+  margin-left: auto;
+  margin-right: auto;
+}
 
 
 <!--
