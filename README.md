@@ -25,61 +25,57 @@
 
 :zap: My personal ratings to my skills and knowledge:
   
-  <table class="center">
-    <th></th><th>IDE & PLATFORM</th><th>LANGUAGES</th><th>TERMINAL</th><th>LIBRARIES</th>
-    <tr>
-      <td>⭐⭐⭐⭐⭐ </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>⭐⭐⭐⭐ ▪ </td>  
-      <td><img height="40" alt="MATLAB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
-      </td>
-      <td><img height="45" alt="PYTHON" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-      </td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>⭐⭐⭐ ▪ ▪ </td>  
-      <td>
-        <img height="40" alt="PYCHRM" src="https://raw.githubusercontent.com/github/explore/d8574c7bce27faa27fb879bca56dfe351ee66efd/topics/pycharm/pycharm.png" /> 
-        <img height="40" alt="INTELJ" src="https://raw.githubusercontent.com/github/explore/caa262eeb858e81282d6f651d6eef1f8730b54ba/topics/intellij-idea/intellij-idea.png" />  
-      </td>
-      <td><img height="50" alt="JAVA" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" /></td>
-      <td></td>
-      <td></td>
-    </tr>
-    </tr>
-    <tr>
-      <td>⭐⭐ ▪ ▪ ▪ </td>  
-      <td>
-        <img height="35" alt="VISSTD" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" />
-        <img height="40" alt="ARDUIN" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
-        <img height="40" alt="RASPPI" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" /></td>
-      <td><img height="40" alt="C" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" /></td>
-      <td><img height="40" alt="GIT" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></td>
-      <td><img height="40" alt="OPENCV" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />
-      <img height="40" alt="NUMPY" src="https://raw.githubusercontent.com/github/explore/d530d6a3a171a53f7b8eb4e9e005136e7ebd898f/topics/numpy/numpy.png" /></td>
-    </tr>
-    </tr>
-    <tr>
-      <td>⭐ ▪ ▪ ▪ ▪ </td>  
-      <td>
-      </td>
-      <td><img height="40" alt="ASSMBL" src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png" />
-      </td>
-      <td></td>
-      <td></td>
-    </tr>
-  </table>
-  .center {
-  margin-left: auto;
-  margin-right: auto;
-}
+<table>
+  <th></th><th>IDE & PLATFORM</th><th>LANGUAGES</th><th>TERMINAL</th><th>LIBRARIES</th>
+  <tr>
+    <td>⭐⭐⭐⭐⭐ </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>⭐⭐⭐⭐ ▪ </td>  
+    <td><img height="40" alt="MATLAB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
+    </td>
+    <td><img height="45" alt="PYTHON" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>⭐⭐⭐ ▪ ▪ </td>  
+    <td>
+      <img height="40" alt="PYCHRM" src="https://raw.githubusercontent.com/github/explore/d8574c7bce27faa27fb879bca56dfe351ee66efd/topics/pycharm/pycharm.png" /> 
+      <img height="40" alt="INTELJ" src="https://raw.githubusercontent.com/github/explore/caa262eeb858e81282d6f651d6eef1f8730b54ba/topics/intellij-idea/intellij-idea.png" />  
+    </td>
+    <td><img height="50" alt="JAVA" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" /></td>
+    <td></td>
+    <td></td>
+  </tr>
+  </tr>
+  <tr>
+    <td>⭐⭐ ▪ ▪ ▪ </td>  
+    <td>
+      <img height="35" alt="VISSTD" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" />
+      <img height="40" alt="ARDUIN" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
+      <img height="40" alt="RASPPI" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" /></td>
+    <td><img height="40" alt="C" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" /></td>
+    <td><img height="40" alt="GIT" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></td>
+    <td><img height="40" alt="OPENCV" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />
+    <img height="40" alt="NUMPY" src="https://raw.githubusercontent.com/github/explore/d530d6a3a171a53f7b8eb4e9e005136e7ebd898f/topics/numpy/numpy.png" /></td>
+  </tr>
+  </tr>
+  <tr>
+    <td>⭐ ▪ ▪ ▪ ▪ </td>  
+    <td>
+    </td>
+    <td><img height="40" alt="ASSMBL" src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png" />
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 
 <!--
