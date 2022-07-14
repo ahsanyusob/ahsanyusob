@@ -114,11 +114,11 @@
     <summary>Rating details</summary>
     <table>
         <tr><th>my rating</th><th>meaning</th></tr>
-        <tr><td>⭐⭐⭐⭐⭐ </td><td>*I'm an expert!*</td></tr>
-        <tr><td>⭐⭐⭐⭐ ▪ </td><td>*I am comfortable with the fundamentals of this topic and have made some contributions with it!*</td></tr>
-        <tr><td>⭐⭐⭐ ▪ ▪ </td><td>*I understood the fundamentals of this topic theoretically and in practice.*</td></tr>
-        <tr><td>⭐⭐ ▪ ▪ ▪ </td><td>*I understood most of the fundamentals of this topic theoretically and have only basic practical experience.*</td></tr>
-        <tr><td>⭐ ▪ ▪ ▪ ▪ </td><td>*I have basic theoretical and practical knowledge about this topic.*</td></tr>
+        <tr><td>⭐⭐⭐⭐⭐ </td><td> I'm an expert! </td></tr>
+        <tr><td>⭐⭐⭐⭐ ▪ </td><td> I am comfortable with the fundamentals of this topic and have made some contributions with it! </td></tr>
+        <tr><td>⭐⭐⭐ ▪ ▪ </td><td> I understood the fundamentals of this topic theoretically and in practice. </td></tr>
+        <tr><td>⭐⭐ ▪ ▪ ▪ </td><td> I understood most of the fundamentals of this topic theoretically and have only basic practical experience. </td></tr>
+        <tr><td>⭐ ▪ ▪ ▪ ▪ </td><td> I have basic theoretical and practical knowledge about this topic. </td></tr>
     </table>
 </details>
 
