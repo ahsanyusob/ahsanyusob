@@ -2,10 +2,43 @@
 
 :zap:  I am interested in:
   <!-- copy this [<img height="20" alt="sys_id" src=https://img.shields.io/badge/-system--identification-blue />](https://github.com/topics/system-identification) -->
-  
->  [<img height="20" alt="sys_id" src=https://img.shields.io/badge/-system--identification-blue />](https://github.com/topics/system-identification) 
->  [<img height="20" alt="deep_l" src=https://img.shields.io/badge/-deep--learning-blue />](https://github.com/topics/deep-learning) 
->  [<img height="20" alt="simscp" src=https://img.shields.io/badge/-simscape-blue />](https://github.com/topics/simscape)
+
+>  [<img height="20" alt="python" src=https://img.shields.io/badge/-python-green />](https://github.com/topics/python)
+>  [<img height="20" alt="java" src=https://img.shields.io/badge/-java-green />](https://github.com/topics/java)
+>  [<img height="20" alt="C" src=https://img.shields.io/badge/-c-green />](https://github.com/topics/c)
+>  [<img height="20" alt="C++" src=https://img.shields.io/badge/-cpp-green />](https://github.com/topics/cpp)
+>  [<img height="20" alt="matlab" src=https://img.shields.io/badge/-matlab-green />](https://github.com/topics/matlab)
+>  [<img height="20" alt="simulink" src=https://img.shields.io/badge/-simulink-green />](https://github.com/topics/simulink)
+>  [<img height="20" alt="simscape" src=https://img.shields.io/badge/-simscape-green />](https://github.com/topics/simscape)
+>  [<img height="20" alt="mtmodel" src=https://img.shields.io/badge/-mathematical--modelling-blue />](https://github.com/topics/mathematical-modelling)
+>  [<img height="20" alt="sys_id" src=https://img.shields.io/badge/-system--identification-blue />](https://github.com/topics/system-identification)
+>  [<img height="20" alt="metaheur" src=https://img.shields.io/badge/-metaheuristics-blue />](https://github.com/topics/metaheuristics)
+>  [<img height="20" alt="opt_algo" src=https://img.shields.io/badge/-optimization--algorithm-blue />](https://github.com/topics/optimization-algorithm)
+>  [<img height="20" alt="MO_opt" src=https://img.shields.io/badge/-multiobjective--optimization-blue />](https://github.com/topics/multiobjective-optimization)
+>  [<img height="20" alt="AI" src=https://img.shields.io/badge/-artificial--intelligence-blue />](https://github.com/topics/artificial-intelligence)
+>  [<img height="20" alt="fuzzlg" src=https://img.shields.io/badge/-fuzzy--logic-blue />](https://github.com/topics/fuzzy-logic)
+>  [<img height="20" alt="fzlgct" src=https://img.shields.io/badge/-fuzzy--logic--control-blue />](https://github.com/topics/fuzzy-logic-control)
+>  [<img height="20" alt="ML" src=https://img.shields.io/badge/-machine--learning-blue />](https://github.com/topics/machine-learning)
+>  [<img height="20" alt="DS" src=https://img.shields.io/badge/-data--science-blue />](https://github.com/topics/data-science)
+>  [<img height="20" alt="NLP" src=https://img.shields.io/badge/-natural--language--processing-blue />](https://github.com/topics/natural-language-processing)
+>  [<img height="20" alt="ANN" src=https://img.shields.io/badge/-artificial--neural--network-blue />](https://github.com/topics/artificial-neural-network)
+>  [<img height="20" alt="DL" src=https://img.shields.io/badge/-deep--learning-blue />](https://github.com/topics/deep-learning)
+>  [<img height="20" alt="CNN" src=https://img.shields.io/badge/-convolutional--neural--network-blue />](https://github.com/topics/convolutional-neural-network)
+>  [<img height="20" alt="ResNet" src=https://img.shields.io/badge/-resnet-blue />](https://github.com/topics/resnet)
+>  [<img height="20" alt="CV" src=https://img.shields.io/badge/-computer--vision-blue />](https://github.com/topics/computer-vision)
+>  [<img height="20" alt="opencv" src=https://img.shields.io/badge/-opencv-blue />](https://github.com/topics/opencv)
+>  [<img height="20" alt="emb_sys" src=https://img.shields.io/badge/-embedded--system-purple />](https://github.com/topics/embedded-system)
+>  [<img height="20" alt="arduino" src=https://img.shields.io/badge/-arduino-purple />](https://github.com/topics/arduino)
+>  [<img height="20" alt="raspi" src=https://img.shields.io/badge/-raspberry--pi-purple />](https://github.com/topics/raspberry-pi)
+>  [<img height="20" alt="ros" src=https://img.shields.io/badge/-ros-purple />](https://github.com/topics/ros)
+>  [<img height="20" alt="autorbt" src=https://img.shields.io/badge/-autonomous--robot-purple />](https://github.com/topics/autonomous-robot)
+>  [<img height="20" alt="mob_rbt" src=https://img.shields.io/badge/-mobile--robot-purple />](https://github.com/topics/mobile-robot)
+>  [<img height="20" alt="uav" src=https://img.shields.io/badge/-uav-purple />](https://github.com/topics/uav)
+>  [<img height="20" alt="drones" src=https://img.shields.io/badge/-drones-purple />](https://github.com/topics/drones)
+>  [<img height="20" alt="adas" src=https://img.shields.io/badge/-adas-purple />](https://github.com/topics/adas)
+>  [<img height="20" alt="e-mobil" src=https://img.shields.io/badge/-electromobility-purple />](https://github.com/topics/electromobility)
+>  [<img height="20" alt="autodr" src=https://img.shields.io/badge/-autonomous--driving-purple />](https://github.com/topics/autonomous-driving)
+
 
 :zap:  Currently, I am learning:
 
