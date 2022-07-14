@@ -80,7 +80,8 @@
     <td>⭐⭐⭐ ▪ ▪ </td>  
     <td>
       <img height="40" alt="PYCHRM" src="https://raw.githubusercontent.com/github/explore/d8574c7bce27faa27fb879bca56dfe351ee66efd/topics/pycharm/pycharm.png" /> 
-      <img height="40" alt="INTELJ" src="https://raw.githubusercontent.com/github/explore/caa262eeb858e81282d6f651d6eef1f8730b54ba/topics/intellij-idea/intellij-idea.png" />  
+      <img height="40" alt="INTELJ" src="https://raw.githubusercontent.com/github/explore/caa262eeb858e81282d6f651d6eef1f8730b54ba/topics/intellij-idea/intellij-idea.png" />
+      <img height="40" alt="ARDUIN" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
     </td>
     <td><img height="50" alt="JAVA" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" /></td>
     <td></td>
@@ -91,7 +92,6 @@
     <td>⭐⭐ ▪ ▪ ▪ </td>  
     <td>
       <img height="35" alt="VISSTD" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" />
-      <img height="40" alt="ARDUIN" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
       <img height="40" alt="RASPPI" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" /></td>
     <td><img height="40" alt="C" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" /></td>
     <td><img height="40" alt="GIT" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></td>
@@ -109,6 +109,18 @@
     <td></td>
   </tr>
 </table>
+
+<details>
+    <summary>Rating details</summary>
+    <table>
+        <tr><th>my rating</th><th>meaning</th></tr>
+        <tr><td>⭐⭐⭐⭐⭐ </td><td>*I'm an expert!*</td></tr>
+        <tr><td>⭐⭐⭐⭐ ▪ </td><td>*I am comfortable with the fundamentals of this topic and have made some contributions with it!*</td></tr>
+        <tr><td>⭐⭐⭐ ▪ ▪ </td><td>*I understood the fundamentals of this topic theoretically and in practice.*</td></tr>
+        <tr><td>⭐⭐ ▪ ▪ ▪ </td><td>*I understood most of the fundamentals of this topic theoretically and have only basic practical experience.*</td></tr>
+        <tr><td>⭐ ▪ ▪ ▪ ▪ </td><td>*I have basic theoretical and practical knowledge about this topic.*</td></tr>
+    </table>
+</details>
 
 <!--
  <img height="25" alt="badge_name" src="" />
