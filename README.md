@@ -2,7 +2,7 @@
 
 <details>
   <summary>:zap:  My personal ratings to my skills and knowledge: </summary>
-  <br></br>
+  
   <table>
     <th></th><th>IDE & PLATFORM</th><th>LANGUAGES</th><th>TERMINAL</th><th>LIBRARIES</th>
     <tr>
@@ -56,21 +56,17 @@
   </table>
 </details>
 
-...
 <details>
   <summary>:zap:  I am interested in: </summary>
   <!-- copy this [<img height="20" alt="sys_id" src=https://img.shields.io/badge/-system--identification-blue />](https://github.com/topics/system-identification) -->
-  <br></br>
   
   [<img height="20" alt="sys_id" src=https://img.shields.io/badge/-system--identification-blue />](https://github.com/topics/system-identification) 
   [<img height="20" alt="deep_l" src=https://img.shields.io/badge/-deep--learning-blue />](https://github.com/topics/deep-learning) 
   [<img height="20" alt="simscp" src=https://img.shields.io/badge/-simscape-blue />](https://github.com/topics/simscape)
 </details>
 
-...
 <details>
   <summary>:zap:  Currently, I am learning: </summary>
-  <br></br>
   
 Terminal:  
 <code><img height="25" alt="git" src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white" /></code>
@@ -97,8 +93,6 @@ PROTOTYPING PLATFORM:
   <img height="25" alt="raspi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=whit" />
 </code>
 </details>
-
-...
 
 <!--
  <img height="25" alt="badge_name" src="" />
