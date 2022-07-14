@@ -1,7 +1,6 @@
 ## Hi, I am Ahsan Yusob!
 
-<details>
-  <summary>:zap:  My personal ratings to my skills and knowledge: </summary>
+:zap: My personal ratings to my skills and knowledge:
   
   <table>
     <th></th><th>IDE & PLATFORM</th><th>LANGUAGES</th><th>TERMINAL</th><th>LIBRARIES</th>
@@ -54,19 +53,15 @@
       <td></td>
     </tr>
   </table>
-</details>
 
-<details>
-  <summary>:zap:  I am interested in: </summary>
+:zap:  I am interested in:
   <!-- copy this [<img height="20" alt="sys_id" src=https://img.shields.io/badge/-system--identification-blue />](https://github.com/topics/system-identification) -->
   
 >  [<img height="20" alt="sys_id" src=https://img.shields.io/badge/-system--identification-blue />](https://github.com/topics/system-identification) 
 >  [<img height="20" alt="deep_l" src=https://img.shields.io/badge/-deep--learning-blue />](https://github.com/topics/deep-learning) 
 >  [<img height="20" alt="simscp" src=https://img.shields.io/badge/-simscape-blue />](https://github.com/topics/simscape)
-</details>
 
-<details>
-  <summary>:zap:  Currently, I am learning: </summary>
+:zap:  Currently, I am learning:
 
 > <img height="25" alt="git" src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white" />
 > <img height="25" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -81,8 +76,7 @@
 > <img height="25" alt="OPEN_CV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
 > <img height="25" alt="NUMPY" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 > <img height="25" alt="APA_MVN" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
->  
-</details>
+
 
 <!--
  <img height="25" alt="badge_name" src="" />
