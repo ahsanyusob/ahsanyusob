@@ -1,4 +1,5 @@
-<img height="40" alt="ASSMBL" src="./img/Lambo_full.png" /> ```Hi, I am Ahsan Yusob!```
+<img height="40" alt="ASSMBL" src="./img/Lambo_full.png" /> <code> Hi, I am AHSAN YUSOB! </code>
+
 
 :zap:  I am interested in:
   <!-- copy this [<img height="20" alt="sys_id" src=https://img.shields.io/badge/-system--identification-blue />](https://github.com/topics/system-identification) -->
