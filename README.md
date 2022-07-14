@@ -56,6 +56,17 @@
 > <img height="25" alt="NUMPY" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 > <img height="25" alt="APA_MVN" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 
+:zap: My academic backgrounds are:
+> * Automotive technologies and Management (B. Eng. 🎓)
+>   * Automotive production
+>   * Mathematical modelling and simulation of mechatronic systems
+> * Mechatronics and Automatic Control (M. Eng. 🎓)
+>   * Non-linear and robust control system
+>   * Embedded system design
+>   * System identification
+>   * Metaheuristic optimization algorithms
+>   * Artificial Intelligence, Machine Learning and Deep Learning
+
 :zap: Here's my personal ratings to my skills and knowledge:
 
 <table>
