@@ -115,7 +115,7 @@
 <details>
     <summary>Rating details</summary>
     <table>
-        <tr><th>my rating</th><th>meaning</th></tr>
+        <!--<tr><th>My rating</th>Meaning<th></th></tr>-->
         <tr><td>⭐⭐⭐⭐⭐ </td><td> I'm an expert! </td></tr>
         <tr><td>⭐⭐⭐⭐ ▪ </td><td> I am comfortable with the fundamentals of this topic and have made some contributions with it! </td></tr>
         <tr><td>⭐⭐⭐ ▪ ▪ </td><td> I understood the fundamentals of this topic theoretically and in practice. </td></tr>
