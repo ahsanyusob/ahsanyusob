@@ -58,11 +58,11 @@
 > <img height="25" alt="APA_MVN" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 
 :zap: My academic backgrounds are:
-> * Automotive technologies and Management (B. Eng. 🎓)
->   * Vehicle productions
->   * Mathematical modelling and simulation of mechatronic systems
->   * <details>
->     <summary>Mechatronics in cars:</summary>
+> * <details>
+>   <summary>Automotive technologies and Management (B. Eng. 🎓)</summary>
+>   <ul>
+>     <li> Vehicle productions </li>
+>     <li> Mathematical modelling and simulation of mechatronic systems </li>   
 >     <ul>
 >       <li>Embedded System</li>
 >       <li>Bus & Communication System</li>
@@ -71,28 +71,26 @@
 >       <li>Powertrain mechatronics</li>
 >      </ul> 
 >   </details>
->   
-> * Mechatronics and Automatic Control (M. Eng. 🎓)
->   <ul> 
->   <li><details>
->     <summary>Mechatronics:</summary>
+> 
+> * <details>
+>   <summary>Mechatronics and Automatic Control (M. Eng. 🎓)</summary>
+>   <ul>
+>     <li>Mechatronics</li>
 >     <ul>
 >       <li>Embedded System Design</li>
 >       <li>System Identification</li>
 >       <li>Advanced Instrumentation and Measurement</li>
->      </ul> 
->   </details></li>
->   <li><details>
->     <summary>Automatic Control of Linear & Non-Linear System:</summary>
+>     </ul> 
+>     <li>Automatic Control of Linear & Non-Linear System</li>
 >     <ul>
 >       <li>Robust control system</li>
 >       <li>Adaptive & Self-Tuning control</li>
 >       <li>AI-based control (Fuzzy Logic, ANN)</li>
->      </ul> 
->   </details></li>
->   <li> Metaheuristic optimization algorithms </li>
->   <li> Artificial Intelligence, Machine Learning and Deep Learning </li>
+>     </ul>
+>     <li> Metaheuristic optimization algorithms </li>
+>     <li> Artificial Intelligence, Machine Learning and Deep Learning </li>
 >   </ul> 
+>   </details>
 
 :zap: Here's my personal ratings to my skills and knowledge:
 
