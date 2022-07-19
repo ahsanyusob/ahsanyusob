@@ -96,6 +96,7 @@
 >     <li> Artificial Intelligence, Machine Learning and Deep Learning </li>
 >   </ul> 
 >   </details></li>
+> </ul>
 > ```
 
 :zap: Here's my personal ratings to my skills and knowledge:
