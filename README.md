@@ -67,31 +67,31 @@
 >     <li> Mathematical modelling and simulation of mechatronic systems </li>   
 >     <li> Mechatronics in cars </li>
 >     <ul>
->       <li>Embedded System</li>
->       <li>Bus & Communication System</li>
->       <li>Vehicle diagnostics</li>
->       <li>Sensors & Actuators</li>
->       <li>Powertrain mechatronics</li>
->       <li>Automotive Software Engineering</li>
+>       <li> Embedded System </li>
+>       <li> Bus & Communication System </li>
+>       <li> Vehicle diagnostics </li>
+>       <li> Sensors & Actuators </li>
+>       <li> Powertrain mechatronics </li>
+>       <li> Automotive Software Engineering </li>
 >      </ul> 
 >   </details></li>
 > 
 >   <li><details>
 >   <summary>Mechatronics and Automatic Control (M. Eng. 🎓)</summary>
 >   <ul>
->     <li>Mechatronics</li>
+>     <li> Mechatronics </li>
 >     <ul>
->       <li>Embedded System Design</li>
->       <li>System Identification</li>
->       <li>Advanced Instrumentation and Measurement</li>
+>       <li> Embedded System Design </li>
+>       <li> System Identification </li>
+>       <li> Advanced Instrumentation and Measurement </li>
 >     </ul> 
->     <li>Automatic Control</li>
+>     <li> Automatic Control </li>
 >     <ul>
->       <li>Linear & Non-Linear System</li>
->       <li>Discrete & computer control system</li>
->       <li>Robust control system</li>
->       <li>Adaptive & Self-Tuning control</li>
->       <li>AI-based control (Fuzzy Logic, ANN)</li>
+>       <li> Linear & Non-Linear System </li>
+>       <li> Discrete & computer control system </li>
+>       <li> Robust control system </li>
+>       <li> Adaptive & Self-Tuning control </li>
+>       <li> AI-based control (Fuzzy Logic, ANN) </li>
 >     </ul>
 >     <li> Metaheuristic optimization algorithms </li>
 >     <li> Artificial Intelligence, Machine Learning and Deep Learning </li>
