@@ -58,6 +58,7 @@
 > <img height="25" alt="APA_MVN" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 
 :zap: My academic backgrounds are:
+> ```html
 > * <details>
 >   <summary>Automotive technologies and Management (B. Eng. 🎓)</summary>
 >   <ul>
@@ -70,6 +71,7 @@
 >       <li>Vehicle diagnostics</li>
 >       <li>Sensors & Actuators</li>
 >       <li>Powertrain mechatronics</li>
+>       <li>Automotive Software Engineering</li>
 >      </ul> 
 >   </details>
 > 
@@ -94,6 +96,7 @@
 >     <li> Artificial Intelligence, Machine Learning and Deep Learning </li>
 >   </ul> 
 >   </details>
+> ```
 
 :zap: Here's my personal ratings to my skills and knowledge:
 
