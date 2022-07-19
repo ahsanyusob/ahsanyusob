@@ -59,12 +59,23 @@
 
 :zap: My academic backgrounds are:
 > * Automotive technologies and Management (B. Eng. 🎓)
->   * Automotive production
+>   * Mechatronics in cars
+>     * Embedded System
+>     * Bus & Communication System
+>     * Vehicle diagnostics 
+>     * Sensors & Actuators
+>     * Powertrain mechatronics
+>   * Vehicle productions
 >   * Mathematical modelling and simulation of mechatronic systems
 > * Mechatronics and Automatic Control (M. Eng. 🎓)
->   * Non-linear and robust control system
->   * Embedded system design
->   * System identification
+>   * Mechatronics
+>     * Embedded System Design
+>     * System Identification
+>     * Advanced Instrumentation and Measurement
+>   * Automatic Control of Linear & Non-Linear System
+>     * Robust control system
+>     * Adaptive & Self-Tuning control
+>     * AI-based control
 >   * Metaheuristic optimization algorithms
 >   * Artificial Intelligence, Machine Learning and Deep Learning
 
