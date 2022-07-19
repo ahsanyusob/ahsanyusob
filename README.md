@@ -59,7 +59,8 @@
 
 :zap: My academic backgrounds are:
 > ```html
-> * <details>
+> <ul>
+>   <li><details>
 >   <summary>Automotive technologies and Management (B. Eng. 🎓)</summary>
 >   <ul>
 >     <li> Vehicle productions </li>
@@ -73,9 +74,9 @@
 >       <li>Powertrain mechatronics</li>
 >       <li>Automotive Software Engineering</li>
 >      </ul> 
->   </details>
+>   </details></li>
 > 
-> * <details>
+>   <li><details>
 >   <summary>Mechatronics and Automatic Control (M. Eng. 🎓)</summary>
 >   <ul>
 >     <li>Mechatronics</li>
@@ -95,7 +96,7 @@
 >     <li> Metaheuristic optimization algorithms </li>
 >     <li> Artificial Intelligence, Machine Learning and Deep Learning </li>
 >   </ul> 
->   </details>
+>   </details></li>
 > ```
 
 :zap: Here's my personal ratings to my skills and knowledge:
