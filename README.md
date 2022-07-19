@@ -59,25 +59,40 @@
 
 :zap: My academic backgrounds are:
 > * Automotive technologies and Management (B. Eng. 🎓)
->   * Mechatronics in cars
->     * Embedded System
->     * Bus & Communication System
->     * Vehicle diagnostics 
->     * Sensors & Actuators
->     * Powertrain mechatronics
 >   * Vehicle productions
 >   * Mathematical modelling and simulation of mechatronic systems
+>   * <details>
+>     <summary>Mechatronics in cars:</summary>
+>     <ul>
+>       <li>Embedded System</li>
+>       <li>Bus & Communication System</li>
+>       <li>Vehicle diagnostics</li>
+>       <li>Sensors & Actuators</li>
+>       <li>Powertrain mechatronics</li>
+>      </ul> 
+>   </details>
+>   
 > * Mechatronics and Automatic Control (M. Eng. 🎓)
->   * Mechatronics
->     * Embedded System Design
->     * System Identification
->     * Advanced Instrumentation and Measurement
->   * Automatic Control of Linear & Non-Linear System
->     * Robust control system
->     * Adaptive & Self-Tuning control
->     * AI-based control (Fuzzy Logic, ANN)
->   * Metaheuristic optimization algorithms
->   * Artificial Intelligence, Machine Learning and Deep Learning
+>   <ul> 
+>   <li><details>
+>     <summary>Mechatronics:</summary>
+>     <ul>
+>       <li>Embedded System Design</li>
+>       <li>System Identification</li>
+>       <li>Advanced Instrumentation and Measurement</li>
+>      </ul> 
+>   </details></li>
+>   <li><details>
+>     <summary>Automatic Control of Linear & Non-Linear System:</summary>
+>     <ul>
+>       <li>Robust control system</li>
+>       <li>Adaptive & Self-Tuning control</li>
+>       <li>AI-based control (Fuzzy Logic, ANN)</li>
+>      </ul> 
+>   </details></li>
+>   <li> Metaheuristic optimization algorithms </li>
+>   <li> Artificial Intelligence, Machine Learning and Deep Learning </li>
+>   </ul> 
 
 :zap: Here's my personal ratings to my skills and knowledge:
 
