@@ -75,7 +75,7 @@
 >   * Automatic Control of Linear & Non-Linear System
 >     * Robust control system
 >     * Adaptive & Self-Tuning control
->     * AI-based control
+>     * AI-based control (Fuzzy Logic, ANN)
 >   * Metaheuristic optimization algorithms
 >   * Artificial Intelligence, Machine Learning and Deep Learning
 
