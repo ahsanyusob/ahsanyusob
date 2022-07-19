@@ -63,6 +63,7 @@
 >   <ul>
 >     <li> Vehicle productions </li>
 >     <li> Mathematical modelling and simulation of mechatronic systems </li>   
+>     <li> Mechatronics in cars </li>
 >     <ul>
 >       <li>Embedded System</li>
 >       <li>Bus & Communication System</li>
@@ -81,8 +82,10 @@
 >       <li>System Identification</li>
 >       <li>Advanced Instrumentation and Measurement</li>
 >     </ul> 
->     <li>Automatic Control of Linear & Non-Linear System</li>
+>     <li>Automatic Control</li>
 >     <ul>
+>       <li>Linear & Non-Linear System</li>
+>       <li>Discrete & computer control system</li>
 >       <li>Robust control system</li>
 >       <li>Adaptive & Self-Tuning control</li>
 >       <li>AI-based control (Fuzzy Logic, ANN)</li>
