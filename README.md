@@ -75,7 +75,6 @@
 >       <li> Automotive Software Engineering </li>
 >      </ul> 
 >   </details></li>
-> 
 >   <li><details>
 >   <summary>Mechatronics and Automatic Control (M. Eng. 🎓)</summary>
 >   <ul>
