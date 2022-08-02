@@ -54,7 +54,10 @@
 > <img height="25" alt="Visual_Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 > <img height="25" alt="MRKDOWN" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 > <img height="25" alt="OPEN_CV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+> <img height="25" alt="SKLRN" src="https://img.shields.io/badge/scikit_learn-9B4600?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+> <img height="25" alt="PANDAS" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 > <img height="25" alt="NUMPY" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+> <img height="25" alt="MATPLOTLIB" src="https://img.shields.io/badge/matplotlib-1f77b4?style=for-the-badge&logo=matplotlib&logoColor=white" />
 > <img height="25" alt="APA_MVN" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 
 :zap: My academic backgrounds are:
@@ -128,7 +131,7 @@
     </td>
     <td><img height="50" alt="JAVA" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" /></td>
     <td></td>
-    <td></td>
+    <td><img height="40" alt="NUMPY" src="https://raw.githubusercontent.com/github/explore/d530d6a3a171a53f7b8eb4e9e005136e7ebd898f/topics/numpy/numpy.png" /></td>
   </tr>
   </tr>
   <tr>
@@ -141,7 +144,9 @@
     <td><img height="40" alt="GIT" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
     <img height="40" alt="BASH" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" /></td>
     <td><img height="40" alt="OPENCV" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />
-    <img height="40" alt="NUMPY" src="https://raw.githubusercontent.com/github/explore/d530d6a3a171a53f7b8eb4e9e005136e7ebd898f/topics/numpy/numpy.png" /></td>
+    <img height="40" alt="SKLRN" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" /> 
+    <img height="40" alt="PANDAS" src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" />
+   <img height="40" alt="PANDAS" src="https://camo.githubusercontent.com/109927a15915074d15313889468aa9aa688de3b9e38cc4359a01f665d351114e/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667" /></td>
   </tr>
   </tr>
   <tr>
