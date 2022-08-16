@@ -1,7 +1,7 @@
 <img height="40" alt="ASSMBL" src="./img/Lambo_full.png" /> <code> Hi, I am AHSAN YUSOB! </code>
 
 
-:zap:  I am interested in:
+:zap:  My topics of interest:
   <!-- copy this [<img height="20" alt="sys_id" src=https://img.shields.io/badge/-system--identification-blue />](https://github.com/topics/system-identification) -->
 
 >  [<img height="20" alt="python" src=https://img.shields.io/badge/-python-green />](https://github.com/topics/python)
@@ -41,7 +41,7 @@
 >  [<img height="20" alt="autodr" src=https://img.shields.io/badge/-autonomous--driving-purple />](https://github.com/topics/autonomous-driving)
 
 
-:zap:  and currently, I am learning:
+:zap:  My current focus:
 
 > <img height="25" alt="git" src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white" />
 > <img height="25" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -55,12 +55,14 @@
 > <img height="25" alt="MRKDOWN" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 > <img height="25" alt="OPEN_CV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
 > <img height="25" alt="SKLRN" src="https://img.shields.io/badge/scikit_learn-9B4600?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+> <img height="25" alt="TNSRFLW" src="https://img.shields.io/badge/tensorflow-9B4600?style=for-the-badge&logo=tensorflow&logoColor=white" />
+> <img height="25" alt="KERAS" src="https://img.shields.io/badge/keras-9B4600?style=for-the-badge&logo=keras&logoColor=white" />
 > <img height="25" alt="PANDAS" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 > <img height="25" alt="NUMPY" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 > <img height="25" alt="MATPLOTLIB" src="https://img.shields.io/badge/matplotlib-1f77b4?style=for-the-badge&logo=matplotlib&logoColor=white" />
 > <img height="25" alt="APA_MVN" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 
-:zap: My academic backgrounds are:
+:zap: My academic backgrounds:
 > ```html
 > <ul>
 >   <li><details>
@@ -102,7 +104,7 @@
 > </ul>
 > ```
 
-:zap: Here's my personal ratings to my skills and knowledge:
+:zap: My personal ratings to my SW & HW skills and knowledge:
 
 <table>
   <th></th><th>IDE & PLATFORM</th><th>LANGUAGES</th><th>TERMINAL</th><th>LIBRARIES</th>
