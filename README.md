@@ -64,8 +64,8 @@
 :zap: My academic backgrounds:
 
 <table>  
-<th> Automotive technologies and Management (B. Eng. 🎓) </th> <th> Mechatronics and Automatic Control (M. Eng. 🎓) </th>
-<tr><td><ul><li> Vehicle productions </li>
+<tr><td> Automotive technologies and Management (B. Eng. 🎓)
+        <ul><li> Vehicle productions </li>
             <li> Mathematical modelling and simulation of mechatronic systems </li>   
             <li> Mechatronics in cars
                 <ul><li> Embedded System </li>
@@ -78,7 +78,9 @@
             </li>
         </ul>
     </td>
-    <td><ul><li> Mechatronics
+</tr>
+<tr><td> Mechatronics and Automatic Control (M. Eng. 🎓)
+        <ul><li> Mechatronics
                 <ul><li> Embedded System Design </li>
                     <li> System Identification </li>
                     <li> Advanced Instrumentation and Measurement </li>
@@ -94,8 +96,8 @@
             </li>
             <li> Metaheuristic optimization algorithms </li>
             <li> Artificial Intelligence, Machine Learning and Deep Learning </li>
-        </ul>
-    </td>   
+        </ul>  
+    </td>
 </tr>
 </table>
 
