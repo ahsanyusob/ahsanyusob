@@ -59,6 +59,7 @@
 <img height="25" alt="PANDAS" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img height="25" alt="NUMPY" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 <img height="25" alt="MATPLOTLIB" src="https://img.shields.io/badge/matplotlib-1f77b4?style=for-the-badge&logo=matplotlib&logoColor=white" />
+<img height="25" alt="KIVY" src="https://img.shields.io/badge/kivy-grey?style=for-the-badge&logo=kivy&logoColor=white" />
 <img height="25" alt="APA_MVN" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 
 :zap: My academic backgrounds:
@@ -148,7 +149,8 @@
     <img height="40" alt="PANDAS" src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" />
     <img height="40" alt="PANDAS" src="https://camo.githubusercontent.com/109927a15915074d15313889468aa9aa688de3b9e38cc4359a01f665d351114e/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667" />
     <img height="40" alt="TensorFlow" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-    <img height="40" alt="Keras" src="https://raw.githubusercontent.com/github/explore/cf9a84017e3cdd93aeb635d9b85379ba67d62031/topics/keras/keras.png" /></td>
+    <img height="40" alt="Keras" src="https://raw.githubusercontent.com/github/explore/cf9a84017e3cdd93aeb635d9b85379ba67d62031/topics/keras/keras.png" />
+    <img height="40" alt="Kivy" src="https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png" /></td>
   </tr>
   </tr>
   <tr>
