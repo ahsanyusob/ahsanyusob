@@ -1,5 +1,6 @@
 <img height="40" alt="ASSMBL" src="./img/Lambo_full.png" /> <code> Hi, I am AHSAN YUSOB! </code>
 
+:zap:  I am a lab engineer for autonomous driving master course!
 
 :zap:  My topics of interest:
   <!-- copy this [<img height="20" alt="sys_id" src=https://img.shields.io/badge/-system--identification-blue />](https://github.com/topics/system-identification) -->
@@ -40,7 +41,7 @@
 [<img height="20" alt="e-mobil" src=https://img.shields.io/badge/-electromobility-purple />](https://github.com/topics/electromobility)
 [<img height="20" alt="autodr" src=https://img.shields.io/badge/-autonomous--driving-purple />](https://github.com/topics/autonomous-driving)
 
-
+<!--
 :zap:  My current focus:
 
 <img height="25" alt="git" src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white"/> <img height="25" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -61,6 +62,7 @@
 <img height="25" alt="MATPLOTLIB" src="https://img.shields.io/badge/matplotlib-1f77b4?style=for-the-badge&logo=matplotlib&logoColor=white" />
 <img height="25" alt="KIVY" src="https://img.shields.io/badge/kivy-grey?style=for-the-badge&logo=kivy&logoColor=white" />
 <img height="25" alt="APA_MVN" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+-->
 
 :zap: My academic backgrounds:
 
@@ -102,7 +104,7 @@
 </tr>
 </table>
 
-
+<!--
 :zap: My personal ratings to my SW & HW skills and knowledge:
 
 <table>
@@ -167,7 +169,6 @@
 <details>
     <summary>Rating details</summary>
     <table>
-        <!--<tr><th>My rating</th>Meaning<th></th></tr>-->
         <tr><td>⭐⭐⭐⭐⭐ </td><td> I'm an expert! </td></tr>
         <tr><td>⭐⭐⭐⭐ ▪ </td><td> I am comfortable with the fundamentals of this topic and have made some contributions with it! </td></tr>
         <tr><td>⭐⭐⭐ ▪ ▪ </td><td> I understood the fundamentals of this topic theoretically and in practice. </td></tr>
@@ -175,6 +176,7 @@
         <tr><td>⭐ ▪ ▪ ▪ ▪ </td><td> I have basic theoretical and practical knowledge about this topic. </td></tr>
     </table>
 </details>
+-->
 
 <!--
  <img height="25" alt="badge_name" src="" />
